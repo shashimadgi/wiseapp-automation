@@ -9,7 +9,7 @@ Ensure you have Python installed, then install the required dependencies:
 ```bash
 pip install selenium webdriver-manager
 Execute the test script using:
-python script.py
+python scripts.py(***********Run the scripts file not script file ***********)
 
 📌 Features of this Test Suite
 ✅ Logs in using a mobile number and OTP
